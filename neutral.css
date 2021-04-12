@@ -32,15 +32,15 @@ margin-top: -0.25rem;
     border:none;
     background-color: #02033D;
     color: rgb(228, 225, 225);
-    padding: 15px 32px;
-    text-align: center;
     text-decoration:solid;
     display: inline-block;
     font-size: 1rem;
     cursor: pointer;
     position:absolute;
-    top: 75%;
-    right: 37%;
+    top: 50%;
+    width: 20%;
+    height: 30%;
+    right: 62%;
     
 
   }
@@ -48,6 +48,54 @@ margin-top: -0.25rem;
     background-color: #03054d;
     color: white;
   }
+  .button1 {
+    border:none;
+    background-color: #02033D;
+    color: rgb(228, 225, 225);
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position:absolute;
+    top: 50%;
+    right:37%;
+    width: 20%;
+    height: 30%;
+    
+
+  }
+  .button1:hover {
+    background-color: #03054d;
+    color: white;
+  }
+  .button:hover {
+    background-color: #03054d;
+    color: white;
+  }
+  .button2 {
+    border:none;
+    background-color: #02033D;
+    color: rgb(228, 225, 225);
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position:absolute;
+    top: 50%;
+    right: 12%;
+    width: 20%;
+    height: 30%;
+    
+
+  }
+  .button2:hover {
+    background-color: #03054d;
+    color: white;
+  }
+.character{
+    width:90%;
+    height:90%;
+}
 
 .pillar{
     height: 40rem;
@@ -80,8 +128,8 @@ margin-top: -0.25rem;
 .pillar1{
     height: 40rem;
     display:block;
-    margin: -293% 0 0 583%;
-    position: sticky;
+    margin: 0% 0 0 0%;
+   position: absolute;
     z-index: 1;
     
 }
