@@ -1,12 +1,12 @@
 body{
-    background-color: #ee9126;
+    background-color: #FEB672;
 }
 .Logo {
     height: 4rem;
     width: 9rem;
 }
 .bg-dark {
-    background-color: #3B3D3F!important;
+    background-color: #3B8183!important;
 }
 .navbar-brand{
     padding: 0.5rem;
@@ -25,7 +25,7 @@ body{
     
     display: block;
     padding: .5rem .5rem;
-    color: #969DC8!important;
+    color: #FFD6A0!important;
     text-decoration: none;
     margin-top: 0.57rem;
 }
@@ -37,10 +37,11 @@ h1{
     text-align: center;
     margin: 6rem 0 0 0;
     font-size: 4rem;
+    color: #ED303C;
 }
   .Choice:hover {
-    background-color: #3B3D3F;
-    color: #969DC8;;
+    background-color: #3B8183;
+    color: #FFD6A0;
   }
 
 .pillar{
@@ -65,13 +66,14 @@ font-size: 2rem;
 position: absolute;
 bottom: -475%;
 left:12rem;
+color: #ED303C;
 
 }
 .Choice{
     font-family: 'Recursive', sans-serif;
     border:none;
-    background-color: #3B3D3F;
-    text-color:  #969DC8;
+    background-color: #3B8183;
+    color:  #FFD6A0;
     text-align: center;
     text-decoration:solid;
     display: inline-block;
@@ -87,8 +89,8 @@ left:12rem;
 .Choice1{
     font-family: 'Recursive', sans-serif;
     border:none;
-    background-color: #3B3D3F;
-    color:  #969DC8;
+    background-color:#3B8183;
+    color:  #FFD6A0;
     text-align: center;
     text-decoration:solid;
     display: inline-block;
@@ -103,8 +105,8 @@ left:12rem;
 .Choice2{
     font-family: 'Recursive', sans-serif;
     border:none;
-    background-color: #3B3D3F;
-    color:  #969DC8;
+    background-color: #3B8183;
+    color:  #FFD6A0;
     text-align: center;
     text-decoration:solid;
     display: inline-block;
@@ -146,11 +148,12 @@ left:12rem;
     left:4rem;
     font-size: 1.5rem;
     text-align: left;
+    color: #ED303C;
 }
 
 .footer-copyright{
-    background-color:#3B3D3F;
-    color: #969DC8;
+    background-color:#3B8183;
+    color: #FFD6A0;
     text-align: center;
     position: sticky !important;;
 }
