@@ -68,9 +68,10 @@ left:12rem;
 
 }
 .Choice{
+    font-family: 'Recursive', sans-serif;
     border:none;
     background-color: #3B3D3F;
-    color:  #969DC8;
+    text-color:  #969DC8;
     text-align: center;
     text-decoration:solid;
     display: inline-block;
@@ -81,8 +82,10 @@ left:12rem;
     width: 18%;
     height: 110%;
     right: 62%;
+    
 }
 .Choice1{
+    font-family: 'Recursive', sans-serif;
     border:none;
     background-color: #3B3D3F;
     color:  #969DC8;
@@ -98,6 +101,7 @@ left:12rem;
     right: 37%;
 }
 .Choice2{
+    font-family: 'Recursive', sans-serif;
     border:none;
     background-color: #3B3D3F;
     color:  #969DC8;
@@ -140,7 +144,7 @@ left:12rem;
     position:absolute;
     top: 140%;
     left:4rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: left;
 }
 
@@ -148,7 +152,7 @@ left:12rem;
     background-color:#3B3D3F;
     color: #969DC8;
     text-align: center;
-    position:sticky;
+    position: sticky !important;;
 }
 
 .item{
