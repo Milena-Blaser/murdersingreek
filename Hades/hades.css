@@ -76,6 +76,13 @@ h1 {
   bottom: -490%;
   left: 12rem;
 }
+.Question3 {
+  font-family: "Recursive", sans-serif;
+  font-size: 2rem;
+  position: absolute;
+  bottom: -420%;
+  left: 12rem;
+}
 .Choice {
   font-family: "Recursive", sans-serif;
   border: none;
@@ -303,6 +310,74 @@ h1 {
     height: 10%;
     right: 37%;
   }
+  .Choice14 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -60%;
+    width: 23%;
+    height: 5%;
+    right: 37%;
+    
+  }
+  .Choice15 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -540%;
+    width: 23%;
+    height: 120%;
+    right: 62%;
+    padding-top: 1rem;
+  }
+  .Choice16 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -540%;
+    width: 23%;
+    height: 120%;
+    right: 37%;
+    padding-top: 1rem;
+  }
+  .Choice17 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -540%;
+    width: 23%;
+    height: 120%;
+    right: 12%;
+    padding-top: 1rem;
+  }
   ul {
     color: #5b6186;
    
@@ -321,13 +396,13 @@ h1 {
   position: absolute;
   width: 7rem;
   height: 7rem;
-  margin: 5rem 0 0 12rem;
+  margin: 5rem 0 0 10rem;
 }
 .symbol1 {
   position: absolute;
   width: 7rem;
   height: 7rem;
-  margin: -5.5rem 0rem 0rem 42rem;
+  margin: -5.5rem 0rem 0rem 43rem;
 }
 
 .text {
