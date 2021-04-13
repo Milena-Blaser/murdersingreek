@@ -59,9 +59,23 @@ h1 {
   font-family: "Recursive", sans-serif;
   font-size: 2rem;
   position: absolute;
-  bottom: -475%;
+  bottom: -525%;
   left: 12rem;
 }
+.Question1 {
+    font-family: "Recursive", sans-serif;
+    font-size: 2rem;
+    position: absolute;
+    bottom: -300%;
+    left: 12rem;
+  }
+  .Question2 {
+    font-family: "Recursive", sans-serif;
+    font-size: 2rem;
+    position: absolute;
+    bottom: -490%;
+    left: 12rem;
+  }
 .Choice {
   font-family: "Recursive", sans-serif;
   border: none;
@@ -73,9 +87,9 @@ h1 {
   font-size: 1rem;
   cursor: pointer;
   position: absolute;
-  bottom: -600%;
-  width: 18%;
-  height: 110%;
+  bottom: -430%;
+  width: 23%;
+  height: 120%;
   right: 62%;
 }
 .Choice1 {
@@ -89,9 +103,9 @@ h1 {
   font-size: 1rem;
   cursor: pointer;
   position: absolute;
-  bottom: -600%;
-  width: 18%;
-  height: 110%;
+  bottom: -430%;
+  width: 23%;
+  height: 120%;
   right: 37%;
 }
 .Choice2 {
@@ -105,16 +119,112 @@ h1 {
   font-size: 1rem;
   cursor: pointer;
   position: absolute;
-  bottom: -600%;
-  width: 18%;
-  height: 110%;
+  bottom: -430%;
+  width: 23%;
+  height: 120%;
   right: 12%;
-}
+}.Choice3 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -580%;
+    width: 23%;
+    height: 40%;
+    right: 62%;
+  }
+  .Choice4 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -580%;
+    width: 23%;
+    height: 40%;
+    right: 37%;
+  }
+  .Choice5 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -580%;
+    width: 23%;
+    height: 40%;
+    right: 12%;
+  }
+  .Choice6 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -610%;
+    width: 23%;
+    height: 120%;
+    right: 62%;
+  }
+  .Choice7 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -610%;
+    width: 23%;
+  height: 120%;
+    right: 37%;
+  }
+  .Choice8 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -610%;
+    width: 23%;
+  height: 120%;
+    right: 12%;
+  }
+
 
 .group {
   align-items: center;
-  width: 10rem;
-  height: 10rem;
+  width: 80%;
+  height: 90%;
 }
 
 .symbol {
