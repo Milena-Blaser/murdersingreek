@@ -288,6 +288,28 @@ h1 {
     right: 12%;
     padding-top: 1rem;
   }
+  .Choice13 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    right: 37%;
+  }
+  ul {
+    color: #5b6186;
+   
+  }
+  li{
+      margin-top: 3rem;
+  }
 
 .group {
   align-items: center;
