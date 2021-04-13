@@ -102,6 +102,24 @@
   background-color: #03054d;
   color: white;
 }
+.button4 {
+  border: none;
+  background-color: #02033d;
+  color: rgb(228, 225, 225);
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  top: 80%;
+  right: 37%;
+  width: 20%;
+  height: 10%;
+}
+.button3:hover {
+  background-color: #03054d;
+  color: white;
+}
 .character {
   width: 90%;
   height: 90%;
@@ -134,7 +152,7 @@
   top: 3rem;
   left: 4rem;
   font-size: 2rem;
-  text-align: center;
+  text-align: left;
 }
 
 .footer-copyright {
