@@ -795,7 +795,7 @@ h1 {
 
 .button {
   border: none;
-  background-color: #3b3d3f;
+  background-color: #3B8183;
   color: #969dc8;
   text-decoration: solid;
   display: inline-block;
@@ -807,12 +807,12 @@ h1 {
   right: 62%;
 }
 .button:hover {
-  background-color: #3b3d3f;
+  background-color: #3B8183;
   color: #969dc8;
 }
 .button1 {
   border: none;
-  background-color: #3b3d3f;
+  background-color: #3B8183;
   color: #969dc8;
   text-decoration: solid;
   display: inline-block;
@@ -824,13 +824,13 @@ h1 {
   margin-top: 15rem;
 }
 .button1:hover {
-  background-color: #3b3d3f;
+  background-color: #3B8183;
   color: #969dc8;
 }
 
 .button2 {
   border: none;
-  background-color: #3b3d3f;
+  background-color: #3B8183;
   color: #969dc8;
   text-decoration: solid;
   display: inline-block;
@@ -842,12 +842,12 @@ h1 {
   margin-top: 15rem;
 }
 .button2:hover {
-  background-color: #3b3d3f;
+  background-color: #3B8183;
   color: #969dc8;
 }
 .button3 {
     border: none;
-    background-color: #3b3d3f;
+    background-color: #3B8183;
     color: #969dc8;
     text-decoration: solid;
     display: inline-block;
@@ -859,7 +859,7 @@ h1 {
     margin-top: 30rem;
   }
   .button3:hover {
-    background-color: #3b3d3f;
+    background-color: #3B8183;
     color: #969dc8;
   }
   
