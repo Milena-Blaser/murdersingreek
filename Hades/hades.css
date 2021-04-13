@@ -83,6 +83,20 @@ h1 {
   bottom: -420%;
   left: 12rem;
 }
+.Question4 {
+  font-family: "Recursive", sans-serif;
+  font-size: 2rem;
+  position: absolute;
+  bottom: -320%;
+  left: 12rem;
+}
+.Question5 {
+  font-family: "Recursive", sans-serif;
+  font-size: 2rem;
+  position: absolute;
+  bottom: -370%;
+  left: 12rem;
+}
 .Choice {
   font-family: "Recursive", sans-serif;
   border: none;
@@ -378,11 +392,175 @@ h1 {
     right: 12%;
     padding-top: 1rem;
   }
-  ul {
-    color: #5b6186;
-   
+  .Choice18 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -450%;
+    width: 23%;
+    height: 120%;
+    right: 62%;
+    padding-top: 1rem;
   }
-  li{
+  .Choice19 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -450%;
+    width: 23%;
+    height: 120%;
+    right: 37%;
+    padding-top: 1rem;
+  }
+  .Choice20 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -450%;
+    width: 23%;
+    height: 120%;
+    right: 12%;
+    padding-top: 1rem;
+  }
+  .Choice21 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -500%;
+    width: 23%;
+    height: 120%;
+    right: 62%;
+    padding-top: 1rem;
+  }
+  .Choice22 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -500%;
+    width: 23%;
+    height: 120%;
+    right: 37%;
+    padding-top: 1rem;
+  }
+  .Choice23 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -500%;
+    width: 23%;
+    height: 120%;
+    right: 12%;
+    padding-top: 1rem;
+  }
+  .Choice24 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -380%;
+    width: 23%;
+    height: 50%;
+    right: 62%;
+    padding-top: 1rem;
+  }
+  .Choice25 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -380%;
+    width: 23%;
+    height: 50%;
+    right: 37%;
+    padding-top: 1rem;
+  }
+  .Choice26 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -380%;
+    width: 23%;
+    height: 50%;
+    right: 12%;
+    padding-top: 1rem;
+  }
+  .ul1 {
+    color: #5b6186;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -490%;
+    width: 100%;
+    height: 300%;
+    right: -10%;
+    padding-top: 1rem;
+    
+  }
+  .li1{
       margin-top: 3rem;
   }
 
@@ -412,6 +590,31 @@ h1 {
   left: 4rem;
   font-size: 1.5rem;
   text-align: left;
+}
+.text1 {
+  font-family: "Recursive", sans-serif;
+  position: absolute;
+  top: 10rem;
+  left: 25%;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.text2 {
+  font-family: "Recursive", sans-serif;
+  position: absolute;
+  top: 130%;
+  left: 4rem;
+  font-size: 1.5rem;
+  text-align: left;
+}
+.text3{
+  font-family: "Recursive", sans-serif;
+  position: absolute;
+  top: 10rem;
+  left: 33%;
+  font-size: 2rem;
+  text-align: center;
 }
 .button {
   border: none;
@@ -492,14 +695,6 @@ h1 {
     width: 90%;
     padding-top: 1rem;
   }
-.text1 {
-  font-family: "Recursive", sans-serif;
-  position: absolute;
-  top: 10rem;
-  left: 25%;
-  font-size: 2rem;
-  text-align: center;
-}
 
 .footer-copyright {
   background-color: #3b3d3f;
