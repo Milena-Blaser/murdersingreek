@@ -220,6 +220,74 @@ h1 {
   height: 120%;
   right: 12%;
 }
+.Choice9 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -35%;
+    width: 23%;
+    height: 5%;
+    right: 37%;
+    
+  }
+  .Choice10 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -430%;
+    width: 23%;
+    height: 120%;
+    right: 62%;
+    padding-top: 1rem;
+  }
+  .Choice11 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -430%;
+    width: 23%;
+    height: 120%;
+    right: 37%;
+    padding-top: 1rem;
+  }
+  .Choice12 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #3b3d3f;
+    color: #969dc8;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -430%;
+    width: 23%;
+    height: 120%;
+    right: 12%;
+    padding-top: 1rem;
+  }
 
 .group {
   align-items: center;
