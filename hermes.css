@@ -6,7 +6,7 @@ body{
     width: 9rem;
 }
 .bg-dark {
-    background-color: #3B8183!important;
+    background-color: #c45f0d!important;
 }
 .navbar-brand{
     padding: 0.5rem;
@@ -40,7 +40,7 @@ h1{
     color: #ED303C;
 }
   .Choice:hover {
-    background-color: #3B8183;
+    background-color: #c45f0d;
     color: #FFD6A0;
   }
 
@@ -72,7 +72,7 @@ color: #ED303C;
 .Choice{
     font-family: 'Recursive', sans-serif;
     border:none;
-    background-color: #3B8183;
+    background-color: #c45f0d;
     color:  #FFD6A0;
     text-align: center;
     text-decoration:solid;
@@ -89,7 +89,7 @@ color: #ED303C;
 .Choice1{
     font-family: 'Recursive', sans-serif;
     border:none;
-    background-color:#3B8183;
+    background-color:#c45f0d;
     color:  #FFD6A0;
     text-align: center;
     text-decoration:solid;
@@ -105,7 +105,7 @@ color: #ED303C;
 .Choice2{
     font-family: 'Recursive', sans-serif;
     border:none;
-    background-color: #3B8183;
+    background-color: #c45f0d;
     color:  #FFD6A0;
     text-align: center;
     text-decoration:solid;
@@ -152,7 +152,7 @@ color: #ED303C;
 }
 
 .footer-copyright{
-    background-color:#3B8183;
+    background-color:#c45f0d;
     color: #FFD6A0;
     text-align: center;
     position: sticky !important;;
