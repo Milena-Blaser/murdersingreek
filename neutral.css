@@ -47,6 +47,8 @@ h1 {
   width: 20%;
   height: 30%;
   right: 62%;
+  padding-top:1rem;
+  padding-bottom: 0.5rem;
 }
 .button:hover {
   background-color: #03054d;
@@ -65,6 +67,8 @@ h1 {
   right: 37%;
   width: 20%;
   height: 30%;
+  padding-top:1rem;
+  padding-bottom: 0.5rem;
 }
 .button1:hover {
   background-color: #03054d;
@@ -87,6 +91,8 @@ h1 {
   right: 12%;
   width: 20%;
   height: 30%;
+  padding-top:1rem;
+  padding-bottom: 0.5rem;
 }
 .button2:hover {
   background-color: #03054d;

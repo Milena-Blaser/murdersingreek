@@ -104,6 +104,14 @@ h1 {
   left: 12rem;
   color:#B9A9DC;
 }
+.Question6 {
+  font-family: "Recursive", sans-serif;
+  font-size: 2rem;
+  position: absolute;
+  bottom: -575%;
+  left: 16rem;
+  color:#B9A9DC;
+}
 .Choice {
   font-family: "Recursive", sans-serif;
   border: none;
@@ -119,6 +127,8 @@ h1 {
   width: 23%;
   height: 120%;
   right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice1 {
   font-family: "Recursive", sans-serif;
@@ -135,6 +145,8 @@ h1 {
   width: 23%;
   height: 120%;
   right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice2 {
   font-family: "Recursive", sans-serif;
@@ -151,6 +163,8 @@ h1 {
   width: 23%;
   height: 120%;
   right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice3 {
   font-family: "Recursive", sans-serif;
@@ -215,6 +229,8 @@ h1 {
   width: 23%;
   height: 120%;
   right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice7 {
   font-family: "Recursive", sans-serif;
@@ -231,6 +247,8 @@ h1 {
   width: 23%;
   height: 120%;
   right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice8 {
   font-family: "Recursive", sans-serif;
@@ -247,6 +265,8 @@ h1 {
   width: 23%;
   height: 120%;
   right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice9 {
     font-family: "Recursive", sans-serif;
@@ -281,6 +301,7 @@ h1 {
     height: 120%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice11 {
     font-family: "Recursive", sans-serif;
@@ -298,6 +319,7 @@ h1 {
     height: 120%;
     right: 37%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice12 {
     font-family: "Recursive", sans-serif;
@@ -315,6 +337,7 @@ h1 {
     height: 120%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice13 {
     font-family: "Recursive", sans-serif;
@@ -364,6 +387,7 @@ h1 {
     height: 120%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice16 {
     font-family: "Recursive", sans-serif;
@@ -381,6 +405,7 @@ h1 {
     height: 120%;
     right: 37%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice17 {
     font-family: "Recursive", sans-serif;
@@ -398,6 +423,7 @@ h1 {
     height: 120%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice18 {
     font-family: "Recursive", sans-serif;
@@ -415,6 +441,7 @@ h1 {
     height: 120%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice19 {
     font-family: "Recursive", sans-serif;
@@ -432,6 +459,7 @@ h1 {
     height: 120%;
     right: 37%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice20 {
     font-family: "Recursive", sans-serif;
@@ -449,6 +477,7 @@ h1 {
     height: 120%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice21 {
     font-family: "Recursive", sans-serif;
@@ -466,6 +495,7 @@ h1 {
     height: 120%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice22 {
     font-family: "Recursive", sans-serif;
@@ -483,6 +513,7 @@ h1 {
     height: 120%;
     right: 37%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice23 {
     font-family: "Recursive", sans-serif;
@@ -500,6 +531,7 @@ h1 {
     height: 120%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice24 {
     font-family: "Recursive", sans-serif;
@@ -515,6 +547,7 @@ h1 {
     height: 100%;
     right: 0%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice25 {
     font-family: "Recursive", sans-serif;
@@ -532,6 +565,7 @@ h1 {
     height: 50%;
     right: 37%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice26 {
     font-family: "Recursive", sans-serif;
@@ -549,6 +583,7 @@ h1 {
     height: 50%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice27 {
     font-family: "Recursive", sans-serif;
@@ -566,6 +601,7 @@ h1 {
     height: 50%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   
   .Choice28 {
@@ -584,6 +620,7 @@ h1 {
     height: 50%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice29 {
     font-family: "Recursive", sans-serif;
@@ -601,6 +638,7 @@ h1 {
     height: 50%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice30 {
     font-family: "Recursive", sans-serif;
@@ -618,6 +656,7 @@ h1 {
     height: 50%;
     right: 12%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
   }
   .Choice31 {
     font-family: "Recursive", sans-serif;
@@ -635,9 +674,75 @@ h1 {
     height: 50%;
     right: 62%;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .Choice32 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #F27A9C;
+    color: #FAD0D9;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -620%;
+    width: 23%;
+    height: 40%;
+    right: 62%;
+  }
+  .Choice33 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #F27A9C;
+    color: #FAD0D9;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -620%;
+    width: 23%;
+    height: 40%;
+    right: 37%;
+  }
+  .Choice34 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #F27A9C;
+    color: #FAD0D9;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -620%;
+    width: 23%;
+    height: 40%;
+    right: 12%;
+  }
+  .Choice35 {
+    font-family: "Recursive", sans-serif;
+    border: none;
+    background-color: #F27A9C;
+    color: #FAD0D9;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 1rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: -38%;
+    width: 23%;
+    height: 5%;
+    right: 37%;
+    
   }
   .ul1 {
-    color: #5b6186;
+    color: #F8E4E8;;
     text-align: center;
     text-decoration: solid;
     display: inline-block;
@@ -662,25 +767,25 @@ h1 {
 
 .symbol {
   position: absolute;
-  width: 7rem;
+  width: 9rem;
   height: 7rem;
   margin: 5rem 0 0 10rem;
 }
 .symbol1 {
   position: absolute;
-  width: 7rem;
+  width: 9rem;
   height: 7rem;
   margin: -5.5rem 0rem 0rem 43rem;
 }
 .symbol2 {
   position: absolute;
-  width: 7rem;
+  width: 9rem;
   height: 7rem;
   margin: 6rem 0 0 7rem;
 }
 .symbol3 {
   position: absolute;
-  width: 7rem;
+  width: 9rem;
   height: 7rem;
   margin: 6rem 0rem 0rem 49rem;
 }
@@ -694,11 +799,12 @@ h1 {
   font-size: 1.5rem;
   text-align: left;
   color:#B9A9DC;
+  width: 100%;
 }
 .text1 {
   font-family: "Recursive", sans-serif;
   position: absolute;
-  top: 10rem;
+  top: 8rem;
   left: 25%;
   font-size: 2rem;
   text-align: center;
@@ -786,7 +892,7 @@ h1 {
     width: 23%;
     right: 37%;
     position: absolute;
-    margin-top: 30rem;
+    margin-top: 31rem;
   }
   .button3:hover {
     background-color: #F27A9C;
@@ -808,6 +914,7 @@ h1 {
   color: #FAD0D9;
   text-align: center;
   position: sticky !important;
+  margin-top: 1rem;
 }
 .footer-copyright1 {
   background-color: #F27A9C;
@@ -815,6 +922,13 @@ h1 {
   text-align: center;
   position: sticky !important;
   margin-top: 55rem;
+}
+.footer-copyright2 {
+  background-color: #F27A9C;
+  color: #FAD0D9;
+  text-align: center;
+  position: sticky !important;
+  margin-top: 20rem;
 }
 
 .item {

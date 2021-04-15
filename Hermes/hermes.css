@@ -1,12 +1,12 @@
 body {
-  background-color: #FEB672;
+  background-color: #feb672;
 }
 .Logo {
   height: 4rem;
   width: 9rem;
 }
 .bg-dark {
-  background-color: #3B8183 !important;
+  background-color: #3b8183 !important;
 }
 .navbar-brand {
   padding: 0.5rem;
@@ -24,7 +24,7 @@ body {
 .nav-links {
   display: block;
   padding: 0.5rem 0.5rem;
-  color: #969dc8 !important;
+  color: #ffd6a0 !important;
   text-decoration: none;
   margin-top: 0.57rem;
 }
@@ -33,14 +33,14 @@ body {
 }
 h1 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   text-align: center;
   margin: 6rem 0 0 0;
   font-size: 4rem;
 }
 .Choice:hover {
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
 }
 
 .pillar {
@@ -58,7 +58,7 @@ h1 {
 }
 .Question {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -525%;
@@ -66,7 +66,7 @@ h1 {
 }
 .Question1 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -300%;
@@ -74,7 +74,7 @@ h1 {
 }
 .Question2 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -490%;
@@ -82,7 +82,7 @@ h1 {
 }
 .Question3 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -420%;
@@ -90,7 +90,7 @@ h1 {
 }
 .Question4 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -320%;
@@ -98,17 +98,16 @@ h1 {
 }
 .Question5 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -370%;
   left: 12rem;
 }
 
-
 .Question6 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   font-size: 2rem;
   position: absolute;
   bottom: -590%;
@@ -118,8 +117,8 @@ h1 {
 .Choice {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -130,12 +129,14 @@ h1 {
   width: 23%;
   height: 120%;
   right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice1 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -146,12 +147,14 @@ h1 {
   width: 23%;
   height: 120%;
   right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice2 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -162,12 +165,14 @@ h1 {
   width: 23%;
   height: 120%;
   right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice3 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -182,8 +187,8 @@ h1 {
 .Choice4 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -198,8 +203,8 @@ h1 {
 .Choice5 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -214,8 +219,8 @@ h1 {
 .Choice6 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -226,12 +231,14 @@ h1 {
   width: 23%;
   height: 120%;
   right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice7 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -242,12 +249,14 @@ h1 {
   width: 23%;
   height: 120%;
   right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice8 {
   font-family: "Recursive", sans-serif;
   border: none;
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   text-decoration: solid;
   display: inline-block;
@@ -258,460 +267,480 @@ h1 {
   width: 23%;
   height: 120%;
   right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .Choice9 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -35%;
-    width: 23%;
-    height: 5%;
-    right: 37%;
-    
-  }
-  .Choice10 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -430%;
-    width: 23%;
-    height: 120%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  .Choice11 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -430%;
-    width: 23%;
-    height: 120%;
-    right: 37%;
-    padding-top: 1rem;
-  }
-  .Choice12 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -430%;
-    width: 23%;
-    height: 120%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice13 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    width: 40%;
-    height: 10%;
-    right: 37%;
-  }
-  .Choice14 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -60%;
-    width: 23%;
-    height: 5%;
-    right: 37%;
-    
-  }
-  .Choice15 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -540%;
-    width: 23%;
-    height: 120%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  .Choice16 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -540%;
-    width: 23%;
-    height: 120%;
-    right: 37%;
-    padding-top: 1rem;
-  }
-  .Choice17 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -540%;
-    width: 23%;
-    height: 120%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice18 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -450%;
-    width: 23%;
-    height: 120%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  .Choice19 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -450%;
-    width: 23%;
-    height: 120%;
-    right: 37%;
-    padding-top: 1rem;
-  }
-  .Choice20 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -450%;
-    width: 23%;
-    height: 120%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice21 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -500%;
-    width: 23%;
-    height: 120%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  .Choice22 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -500%;
-    width: 23%;
-    height: 120%;
-    right: 37%;
-    padding-top: 1rem;
-  }
-  .Choice23 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -500%;
-    width: 23%;
-    height: 120%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice24 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-   bottom: -10%;
-    width: 100%;
-    height: 100%;
-    right: 0%;
-    padding-top: 1rem;
-  }
-  .Choice25 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -380%;
-    width: 23%;
-    height: 50%;
-    right: 37%;
-    padding-top: 1rem;
-  }
-  .Choice26 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -380%;
-    width: 23%;
-    height: 50%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice27 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -380%;
-    width: 23%;
-    height: 50%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  
-  .Choice28 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -575%;
-    width: 23%;
-    height: 50%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  .Choice29 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -575%;
-    width: 23%;
-    height: 50%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice30 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -420%;
-    width: 23%;
-    height: 50%;
-    right: 12%;
-    padding-top: 1rem;
-  }
-  .Choice31 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -420%;
-    width: 23%;
-    height: 50%;
-    right: 62%;
-    padding-top: 1rem;
-  }
-  .Choice32 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -630%;
-    width: 23%;
-    height: 40%;
-    right: 62%;
-  }
-  .Choice33 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -630%;
-    width: 23%;
-    height: 40%;
-    right: 37%;
-  }
-  .Choice34 {
-    font-family: "Recursive", sans-serif;
-    border: none;
-    background-color: #3B8183;
-    color: #FFD6A0;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -630%;
-    width: 23%;
-    height: 40%;
-    right: 12%;
-  }
-  .ul1 {
-    color: #FEB672;
-    text-align: center;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    position: absolute;
-    bottom: -490%;
-    width: 100%;
-    height: 300%;
-    right: -10%;
-    padding-top: 1rem;
-  }
-  .li1{
-      margin-top: 3rem;
-  }
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -35%;
+  width: 23%;
+  height: 5%;
+  right: 37%;
+}
+.Choice10 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -430%;
+  width: 23%;
+  height: 120%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice11 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -430%;
+  width: 23%;
+  height: 120%;
+  right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice12 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -430%;
+  width: 23%;
+  height: 120%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice13 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  width: 40%;
+  height: 10%;
+  right: 37%;
+}
+.Choice14 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -60%;
+  width: 23%;
+  height: 5%;
+  right: 37%;
+}
+.Choice15 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -540%;
+  width: 23%;
+  height: 120%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice16 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -540%;
+  width: 23%;
+  height: 120%;
+  right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice17 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -540%;
+  width: 23%;
+  height: 120%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice18 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -450%;
+  width: 23%;
+  height: 120%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice19 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -450%;
+  width: 23%;
+  height: 120%;
+  right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice20 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -450%;
+  width: 23%;
+  height: 120%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice21 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -500%;
+  width: 23%;
+  height: 120%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice22 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -500%;
+  width: 23%;
+  height: 120%;
+  right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice23 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -500%;
+  width: 23%;
+  height: 120%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice24 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -10%;
+  width: 100%;
+  height: 100%;
+  right: 0%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice25 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -380%;
+  width: 23%;
+  height: 50%;
+  right: 37%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice26 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -380%;
+  width: 23%;
+  height: 50%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice27 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -380%;
+  width: 23%;
+  height: 50%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.Choice28 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -575%;
+  width: 23%;
+  height: 50%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice29 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -575%;
+  width: 23%;
+  height: 50%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice30 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -420%;
+  width: 23%;
+  height: 50%;
+  right: 12%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice31 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -420%;
+  width: 23%;
+  height: 50%;
+  right: 62%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.Choice32 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -630%;
+  width: 23%;
+  height: 40%;
+  right: 62%;
+}
+.Choice33 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -630%;
+  width: 23%;
+  height: 40%;
+  right: 37%;
+}
+.Choice34 {
+  font-family: "Recursive", sans-serif;
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -630%;
+  width: 23%;
+  height: 40%;
+  right: 12%;
+}
+.ul1 {
+  color: #feb672;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  position: absolute;
+  bottom: -490%;
+  width: 100%;
+  height: 300%;
+  right: -10%;
+  padding-top: 1rem;
+}
+.li1 {
+  margin-top: 3rem;
+}
 
 .group {
   align-items: center;
@@ -741,13 +770,12 @@ h1 {
   position: absolute;
   width: 7rem;
   height: 7rem;
-  margin: 23rem 0rem 0rem 13rem;
+  margin: 6rem 0rem 0rem 50rem;
 }
-
 
 .text {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   position: absolute;
   top: 140%;
   left: 4rem;
@@ -756,9 +784,9 @@ h1 {
 }
 .text1 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   position: absolute;
-  top: 10rem;
+  top: 8rem;
   left: 25%;
   font-size: 2rem;
   text-align: center;
@@ -766,16 +794,16 @@ h1 {
 
 .text2 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   position: absolute;
   top: 130%;
   left: 4rem;
   font-size: 1.5rem;
   text-align: left;
 }
-.text3{
+.text3 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   position: absolute;
   top: 10rem;
   left: 33%;
@@ -785,7 +813,7 @@ h1 {
 
 .text4 {
   font-family: "Recursive", sans-serif;
-  color: #ED303C;
+  color: #ed303c;
   position: absolute;
   top: 110%;
   left: 4rem;
@@ -795,8 +823,8 @@ h1 {
 
 .button {
   border: none;
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-decoration: solid;
   display: inline-block;
   font-size: 1rem;
@@ -807,13 +835,13 @@ h1 {
   right: 62%;
 }
 .button:hover {
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
 }
 .button1 {
   border: none;
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-decoration: solid;
   display: inline-block;
   font-size: 1rem;
@@ -824,14 +852,14 @@ h1 {
   margin-top: 15rem;
 }
 .button1:hover {
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
 }
 
 .button2 {
   border: none;
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-decoration: solid;
   display: inline-block;
   font-size: 1rem;
@@ -842,46 +870,46 @@ h1 {
   margin-top: 15rem;
 }
 .button2:hover {
-  background-color: #3B8183;
-  color: #969dc8;
+  background-color: #3b8183;
+  color: #ffd6a0;
 }
 .button3 {
-    border: none;
-    background-color: #3B8183;
-    color: #969dc8;
-    text-decoration: solid;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
-    width: 23%;
-    right: 37%;
-    position: absolute;
-    margin-top: 30rem;
-  }
-  .button3:hover {
-    background-color: #3B8183;
-    color: #969dc8;
-  }
-  
+  border: none;
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  width: 23%;
+  right: 37%;
+  position: absolute;
+  margin-top: 30rem;
+}
+.button3:hover {
+  background-color: #3b8183;
+  color: #ffd6a0;
+}
 
 .character {
   width: 90%;
   height: 90%;
 }
 .character1 {
-    width: 90%;
-    padding-top: 1rem;
-  }
+  width: 90%;
+  padding-top: 1rem;
+}
 
 .footer-copyright {
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   position: sticky !important;
+  margin-top: 1rem;
 }
 .footer-copyright1 {
-  background-color: #3B8183;
-  color: #FFD6A0;
+  background-color: #3b8183;
+  color: #ffd6a0;
   text-align: center;
   position: sticky !important;
   margin-top: 55rem;
@@ -911,10 +939,10 @@ h1 {
   padding-bottom: -2.5rem;
 }
 a {
-  color: #FFD6A0;
+  color: #ffd6a0;
 }
 a:hover {
-  color: #FFD6A0;;
+  color: #ffd6a0;
   text-decoration: none;
 }
 
