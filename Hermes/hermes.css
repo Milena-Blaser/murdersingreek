@@ -914,6 +914,13 @@ h1 {
   position: sticky !important;
   margin-top: 55rem;
 }
+.footer-copyright2 {
+  background-color: #3b8183;
+  color: #ffd6a0;
+  text-align: center;
+  position: sticky !important;
+  margin-top: 4rem;
+}
 
 .item {
   height: 12rem;
