@@ -324,6 +324,12 @@ a:hover {
   .pillar1 {
     visibility: hidden;
   }
+  .pillar2 {
+    visibility: hidden;
+  }
+  .pillar3 {
+    visibility: hidden;
+  }
   .col-sm-1 {
     width: 10%;
   }
